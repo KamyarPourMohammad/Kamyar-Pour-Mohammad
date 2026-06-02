@@ -29,9 +29,5 @@ I am a **Computer Science** student at **Shahid Beheshti University (SBU)** and 
 - **Kaggle Competitions:** Actively solving diverse challenges on Kaggle to sharpen my ML skills.
 - **AI Book:** Authored a comprehensive guide on AI fundamentals, available on my GitHub.
 
-### 📫 Connect with me:
-- **Email:** [kamyarpm56@gmail.com](mailto:kamyarpm56@gmail.com) [cite: 33]
-- **Location:** Tehran, Iran 🇮🇷
-
 ---
 *“Developing the future, one neuron at a time.”*
